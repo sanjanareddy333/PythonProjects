@@ -1,0 +1,10 @@
+--- you’ll have to install the Tk interface package on your system.
+sudo apt-get install python3-tk
+
+python -m tkinter
+
+-----------------------------------------------------------
+https://docs.python.org/3/library/turtle.html
+-----------------------------------------------------------------
+
+
